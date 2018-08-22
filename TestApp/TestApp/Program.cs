@@ -10,7 +10,7 @@ namespace TestApp
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hey - Third feature");
+			Console.WriteLine("Hey - Fourth feature");
 		}
 	}
 }
